@@ -1,0 +1,590 @@
+[
+  {
+    "epoca": 1,
+    "paso": 20,
+    "perdida_train": 41.773590087890625,
+    "perdida_val": 40.40918045043945
+  },
+  {
+    "epoca": 1,
+    "paso": 40,
+    "perdida_train": 25.312841415405273,
+    "perdida_val": 24.57310543060303
+  },
+  {
+    "epoca": 2,
+    "paso": 60,
+    "perdida_train": 20.222497940063477,
+    "perdida_val": 20.31471405029297
+  },
+  {
+    "epoca": 2,
+    "paso": 80,
+    "perdida_train": 17.58757972717285,
+    "perdida_val": 18.025805282592774
+  },
+  {
+    "epoca": 3,
+    "paso": 100,
+    "perdida_train": 15.31119441986084,
+    "perdida_val": 16.55323257446289
+  },
+  {
+    "epoca": 3,
+    "paso": 120,
+    "perdida_train": 13.917326927185059,
+    "perdida_val": 15.438455581665039
+  },
+  {
+    "epoca": 3,
+    "paso": 140,
+    "perdida_train": 13.37098503112793,
+    "perdida_val": 14.361043071746826
+  },
+  {
+    "epoca": 4,
+    "paso": 160,
+    "perdida_train": 12.399087905883789,
+    "perdida_val": 13.581165885925293
+  },
+  {
+    "epoca": 4,
+    "paso": 180,
+    "perdida_train": 11.076910972595215,
+    "perdida_val": 12.743559074401855
+  },
+  {
+    "epoca": 5,
+    "paso": 200,
+    "perdida_train": 10.64623737335205,
+    "perdida_val": 12.10461139678955
+  },
+  {
+    "epoca": 5,
+    "paso": 220,
+    "perdida_train": 10.205805778503418,
+    "perdida_val": 11.377118015289307
+  },
+  {
+    "epoca": 5,
+    "paso": 240,
+    "perdida_train": 9.50519847869873,
+    "perdida_val": 11.11231870651245
+  },
+  {
+    "epoca": 6,
+    "paso": 260,
+    "perdida_train": 9.27918529510498,
+    "perdida_val": 10.261733531951904
+  },
+  {
+    "epoca": 6,
+    "paso": 280,
+    "perdida_train": 8.55550479888916,
+    "perdida_val": 10.069403266906738
+  },
+  {
+    "epoca": 7,
+    "paso": 300,
+    "perdida_train": 8.255959510803223,
+    "perdida_val": 9.7539306640625
+  },
+  {
+    "epoca": 7,
+    "paso": 320,
+    "perdida_train": 8.136185646057129,
+    "perdida_val": 9.362650299072266
+  },
+  {
+    "epoca": 7,
+    "paso": 340,
+    "perdida_train": 7.231271743774414,
+    "perdida_val": 9.27651071548462
+  },
+  {
+    "epoca": 8,
+    "paso": 360,
+    "perdida_train": 7.7319817543029785,
+    "perdida_val": 9.006093597412109
+  },
+  {
+    "epoca": 8,
+    "paso": 380,
+    "perdida_train": 7.396536350250244,
+    "perdida_val": 8.634644412994385
+  },
+  {
+    "epoca": 9,
+    "paso": 400,
+    "perdida_train": 7.247861862182617,
+    "perdida_val": 8.465863180160522
+  },
+  {
+    "epoca": 9,
+    "paso": 420,
+    "perdida_train": 7.082338333129883,
+    "perdida_val": 8.314557933807373
+  },
+  {
+    "epoca": 9,
+    "paso": 440,
+    "perdida_train": 7.12007474899292,
+    "perdida_val": 8.298484563827515
+  },
+  {
+    "epoca": 10,
+    "paso": 460,
+    "perdida_train": 6.728865623474121,
+    "perdida_val": 8.20704917907715
+  },
+  {
+    "epoca": 10,
+    "paso": 480,
+    "perdida_train": 6.720959186553955,
+    "perdida_val": 7.920594549179077
+  },
+  {
+    "epoca": 11,
+    "paso": 500,
+    "perdida_train": 6.683803558349609,
+    "perdida_val": 7.922129106521607
+  },
+  {
+    "epoca": 11,
+    "paso": 520,
+    "perdida_train": 6.472529411315918,
+    "perdida_val": 7.848498725891114
+  },
+  {
+    "epoca": 12,
+    "paso": 540,
+    "perdida_train": 6.747031211853027,
+    "perdida_val": 7.717548036575318
+  },
+  {
+    "epoca": 12,
+    "paso": 560,
+    "perdida_train": 6.411019802093506,
+    "perdida_val": 7.6626091480255125
+  },
+  {
+    "epoca": 12,
+    "paso": 580,
+    "perdida_train": 5.9127936363220215,
+    "perdida_val": 7.511980199813843
+  },
+  {
+    "epoca": 13,
+    "paso": 600,
+    "perdida_train": 5.8894877433776855,
+    "perdida_val": 7.65036826133728
+  },
+  {
+    "epoca": 13,
+    "paso": 620,
+    "perdida_train": 6.126947402954102,
+    "perdida_val": 7.372616147994995
+  },
+  {
+    "epoca": 14,
+    "paso": 640,
+    "perdida_train": 5.850070953369141,
+    "perdida_val": 7.328327703475952
+  },
+  {
+    "epoca": 14,
+    "paso": 660,
+    "perdida_train": 6.355465888977051,
+    "perdida_val": 7.237379264831543
+  },
+  {
+    "epoca": 14,
+    "paso": 680,
+    "perdida_train": 5.691538333892822,
+    "perdida_val": 7.063942718505859
+  },
+  {
+    "epoca": 15,
+    "paso": 700,
+    "perdida_train": 5.940866470336914,
+    "perdida_val": 7.178017425537109
+  },
+  {
+    "epoca": 15,
+    "paso": 720,
+    "perdida_train": 5.843757629394531,
+    "perdida_val": 7.097437381744385
+  },
+  {
+    "epoca": 16,
+    "paso": 740,
+    "perdida_train": 5.822597026824951,
+    "perdida_val": 7.010125017166137
+  },
+  {
+    "epoca": 16,
+    "paso": 760,
+    "perdida_train": 5.596850872039795,
+    "perdida_val": 6.892604970932007
+  },
+  {
+    "epoca": 16,
+    "paso": 780,
+    "perdida_train": 5.915883541107178,
+    "perdida_val": 7.025500869750976
+  },
+  {
+    "epoca": 17,
+    "paso": 800,
+    "perdida_train": 5.618966579437256,
+    "perdida_val": 6.841932582855224
+  },
+  {
+    "epoca": 17,
+    "paso": 820,
+    "perdida_train": 5.699277400970459,
+    "perdida_val": 6.904877042770385
+  },
+  {
+    "epoca": 18,
+    "paso": 840,
+    "perdida_train": 5.748268127441406,
+    "perdida_val": 6.903145408630371
+  },
+  {
+    "epoca": 18,
+    "paso": 860,
+    "perdida_train": 5.668491840362549,
+    "perdida_val": 6.923295211791992
+  },
+  {
+    "epoca": 18,
+    "paso": 880,
+    "perdida_train": 5.666420936584473,
+    "perdida_val": 6.834303855895996
+  },
+  {
+    "epoca": 19,
+    "paso": 900,
+    "perdida_train": 5.605867385864258,
+    "perdida_val": 6.838625383377075
+  },
+  {
+    "epoca": 19,
+    "paso": 920,
+    "perdida_train": 5.038382053375244,
+    "perdida_val": 6.827963352203369
+  },
+  {
+    "epoca": 20,
+    "paso": 940,
+    "perdida_train": 5.569164276123047,
+    "perdida_val": 6.812135887145996
+  },
+  {
+    "epoca": 20,
+    "paso": 960,
+    "perdida_train": 5.561131477355957,
+    "perdida_val": 6.7441017627716064
+  },
+  {
+    "epoca": 20,
+    "paso": 980,
+    "perdida_train": 5.628522872924805,
+    "perdida_val": 6.656042575836182
+  },
+  {
+    "epoca": 21,
+    "paso": 1000,
+    "perdida_train": 4.950953006744385,
+    "perdida_val": 6.726248502731323
+  },
+  {
+    "epoca": 21,
+    "paso": 1020,
+    "perdida_train": 5.230478763580322,
+    "perdida_val": 6.582107830047607
+  },
+  {
+    "epoca": 22,
+    "paso": 1040,
+    "perdida_train": 5.458934307098389,
+    "perdida_val": 6.633698129653931
+  },
+  {
+    "epoca": 22,
+    "paso": 1060,
+    "perdida_train": 5.393224716186523,
+    "perdida_val": 6.70951247215271
+  },
+  {
+    "epoca": 23,
+    "paso": 1080,
+    "perdida_train": 5.335604667663574,
+    "perdida_val": 6.592818641662598
+  },
+  {
+    "epoca": 23,
+    "paso": 1100,
+    "perdida_train": 5.031737804412842,
+    "perdida_val": 6.634325265884399
+  },
+  {
+    "epoca": 23,
+    "paso": 1120,
+    "perdida_train": 5.617588520050049,
+    "perdida_val": 6.468723964691162
+  },
+  {
+    "epoca": 24,
+    "paso": 1140,
+    "perdida_train": 5.259377479553223,
+    "perdida_val": 6.5664324283599855
+  },
+  {
+    "epoca": 24,
+    "paso": 1160,
+    "perdida_train": 5.0918474197387695,
+    "perdida_val": 6.53933687210083
+  },
+  {
+    "epoca": 25,
+    "paso": 1180,
+    "perdida_train": 5.377259731292725,
+    "perdida_val": 6.463581943511963
+  },
+  {
+    "epoca": 25,
+    "paso": 1200,
+    "perdida_train": 5.279429912567139,
+    "perdida_val": 6.364517450332642
+  },
+  {
+    "epoca": 25,
+    "paso": 1220,
+    "perdida_train": 5.389334678649902,
+    "perdida_val": 6.526129961013794
+  },
+  {
+    "epoca": 26,
+    "paso": 1240,
+    "perdida_train": 5.290113925933838,
+    "perdida_val": 6.532084941864014
+  },
+  {
+    "epoca": 26,
+    "paso": 1260,
+    "perdida_train": 5.201131820678711,
+    "perdida_val": 6.382143306732178
+  },
+  {
+    "epoca": 27,
+    "paso": 1280,
+    "perdida_train": 5.013833522796631,
+    "perdida_val": 6.4526695728302
+  },
+  {
+    "epoca": 27,
+    "paso": 1300,
+    "perdida_train": 5.087985992431641,
+    "perdida_val": 6.4564659118652346
+  },
+  {
+    "epoca": 27,
+    "paso": 1320,
+    "perdida_train": 4.999895095825195,
+    "perdida_val": 6.381848287582398
+  },
+  {
+    "epoca": 28,
+    "paso": 1340,
+    "perdida_train": 4.754178047180176,
+    "perdida_val": 6.506704568862915
+  },
+  {
+    "epoca": 28,
+    "paso": 1360,
+    "perdida_train": 5.360207557678223,
+    "perdida_val": 6.429668998718261
+  },
+  {
+    "epoca": 29,
+    "paso": 1380,
+    "perdida_train": 5.183804035186768,
+    "perdida_val": 6.3430421352386475
+  },
+  {
+    "epoca": 29,
+    "paso": 1400,
+    "perdida_train": 5.826004505157471,
+    "perdida_val": 6.487488412857056
+  },
+  {
+    "epoca": 29,
+    "paso": 1420,
+    "perdida_train": 5.049664497375488,
+    "perdida_val": 6.319464302062988
+  },
+  {
+    "epoca": 30,
+    "paso": 1440,
+    "perdida_train": 5.220207214355469,
+    "perdida_val": 6.442747688293457
+  },
+  {
+    "epoca": 30,
+    "paso": 1460,
+    "perdida_train": 5.234532356262207,
+    "perdida_val": 6.366781949996948
+  },
+  {
+    "epoca": 31,
+    "paso": 1480,
+    "perdida_train": 5.240145206451416,
+    "perdida_val": 6.412983560562134
+  },
+  {
+    "epoca": 31,
+    "paso": 1500,
+    "perdida_train": 5.409032344818115,
+    "perdida_val": 6.31939697265625
+  },
+  {
+    "epoca": 32,
+    "paso": 1520,
+    "perdida_train": 5.043671131134033,
+    "perdida_val": 6.372351741790771
+  },
+  {
+    "epoca": 32,
+    "paso": 1540,
+    "perdida_train": 5.041904926300049,
+    "perdida_val": 6.368263673782349
+  },
+  {
+    "epoca": 32,
+    "paso": 1560,
+    "perdida_train": 4.744839668273926,
+    "perdida_val": 6.34571099281311
+  },
+  {
+    "epoca": 33,
+    "paso": 1580,
+    "perdida_train": 5.351563930511475,
+    "perdida_val": 6.172014141082764
+  },
+  {
+    "epoca": 33,
+    "paso": 1600,
+    "perdida_train": 5.342208385467529,
+    "perdida_val": 6.264450216293335
+  },
+  {
+    "epoca": 34,
+    "paso": 1620,
+    "perdida_train": 4.667928218841553,
+    "perdida_val": 6.30182113647461
+  },
+  {
+    "epoca": 34,
+    "paso": 1640,
+    "perdida_train": 4.703784465789795,
+    "perdida_val": 6.270222520828247
+  },
+  {
+    "epoca": 34,
+    "paso": 1660,
+    "perdida_train": 5.168125629425049,
+    "perdida_val": 6.238892221450806
+  },
+  {
+    "epoca": 35,
+    "paso": 1680,
+    "perdida_train": 4.896151065826416,
+    "perdida_val": 6.357903861999512
+  },
+  {
+    "epoca": 35,
+    "paso": 1700,
+    "perdida_train": 5.0442023277282715,
+    "perdida_val": 6.213457345962524
+  },
+  {
+    "epoca": 36,
+    "paso": 1720,
+    "perdida_train": 4.949587821960449,
+    "perdida_val": 6.241945266723633
+  },
+  {
+    "epoca": 36,
+    "paso": 1740,
+    "perdida_train": 4.962684631347656,
+    "perdida_val": 6.155577659606934
+  },
+  {
+    "epoca": 36,
+    "paso": 1760,
+    "perdida_train": 4.983834743499756,
+    "perdida_val": 6.462055301666259
+  },
+  {
+    "epoca": 37,
+    "paso": 1780,
+    "perdida_train": 5.01362419128418,
+    "perdida_val": 6.066571378707886
+  },
+  {
+    "epoca": 37,
+    "paso": 1800,
+    "perdida_train": 4.694848537445068,
+    "perdida_val": 6.075174999237061
+  },
+  {
+    "epoca": 38,
+    "paso": 1820,
+    "perdida_train": 4.877391815185547,
+    "perdida_val": 6.270041131973267
+  },
+  {
+    "epoca": 38,
+    "paso": 1840,
+    "perdida_train": 4.850603103637695,
+    "perdida_val": 6.213433122634887
+  },
+  {
+    "epoca": 38,
+    "paso": 1860,
+    "perdida_train": 4.98674201965332,
+    "perdida_val": 6.1362621784210205
+  },
+  {
+    "epoca": 39,
+    "paso": 1880,
+    "perdida_train": 4.832827568054199,
+    "perdida_val": 6.164141273498535
+  },
+  {
+    "epoca": 39,
+    "paso": 1900,
+    "perdida_train": 4.917455196380615,
+    "perdida_val": 6.230823278427124
+  },
+  {
+    "epoca": 40,
+    "paso": 1920,
+    "perdida_train": 4.8074421882629395,
+    "perdida_val": 6.061283445358276
+  },
+  {
+    "epoca": 40,
+    "paso": 1940,
+    "perdida_train": 5.013033866882324,
+    "perdida_val": 6.188481092453003
+  },
+  {
+    "epoca": 40,
+    "paso": 1960,
+    "perdida_train": 4.6601786613464355,
+    "perdida_val": 6.176049709320068
+  }
+]

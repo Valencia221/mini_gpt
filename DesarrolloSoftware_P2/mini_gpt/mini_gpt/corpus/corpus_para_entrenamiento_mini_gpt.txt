@@ -1,0 +1,41 @@
+[INSTRUCCION] ¿Que es la sismicidad inducida?
+[RESPUESTA] La sismicidad inducida se refiere a los sismos o terremotos provocados por actividades humanas que alteran los esfuerzos en la corteza terrestre, como la inyeccion de fluidos, el fracking, la mineria y el llenado de embalses.
+
+[INSTRUCCION] ¿Cual es la diferencia entre sismicidad inducida y sismicidad natural?
+[RESPUESTA] La sismicidad natural ocurre por procesos tectónicos globales sin intervencion humana. La sismicidad inducida es provocada directamente por la actividad humana al modificar la presion de poros o los esfuerzos en las fallas geologicas.
+
+[INSTRUCCION] ¿Como provoca sismos la inyeccion de fluidos?
+[RESPUESTA] La inyeccion de fluidos aumenta la presion de poros en las rocas subterranas. Este aumento de presion reduce el esfuerzo normal efectivo en las fallas, facilitando que se deslicen y liberen energia en forma de sismos.
+
+[INSTRUCCION] ¿Que es el criterio de falla de Coulomb?
+[RESPUESTA] El criterio de Coulomb define la resistencia al corte de una roca o falla. Indica que el deslizamiento ocurre cuando el esfuerzo cortante supera la cohesión mas el producto del esfuerzo normal efectivo y el coeficiente de friccion.
+
+[INSTRUCCION] ¿Que es el esfuerzo efectivo?
+[RESPUESTA] El esfuerzo efectivo es la diferencia entre el esfuerzo total aplicado sobre una roca y la presion del fluido contenido en sus poros. Matemáticamente se define como esfuerzo efectivo igual a esfuerzo total menos presion de poros.
+
+[INSTRUCCION] ¿Que es el fracking o fracturamiento hidraulico?
+[RESPUESTA] El fracking es una tecnica para extraer hidrocarburos inyectando agua a alta presion para romper la roca generadora. Puede generar microsismicidad directa y desencadenar sismos mayores si el fluido alcanza una falla preexistente.
+
+[INSTRUCCION] ¿Cual es la diferencia entre sismicidad inducida y gatillada?
+[RESPUESTA] En la sismicidad inducida la actividad humana aporta la mayor parte de la energia para la ruptura. En la sismicidad gatillada la falla ya estaba cargada tectónicamente a punto de romper y la actividad humana solo dio el impulso final.
+
+[INSTRUCCION] ¿Que es un sistema de semaforo sismico?
+[RESPUESTA] Un sistema de semaforo sismico es un protocolo de gestion de riesgo. El verde indica operacion normal, el amarillo exige reducir la tasa de inyeccion y el rojo exige detener inmediatamente las operaciones por superar el limite de magnitud de seguridad.
+
+[INSTRUCCION] ¿Como afectan los embalses a la sismicidad?
+[RESPUESTA] El llenado de grandes represas genera sismicidad por dos factores: el peso directo del agua sobre el terreno y la percolacion lenta del agua que incrementa la presion de poros en las fallas profundas.
+
+[INSTRUCCION] ¿Que es la ley de Gutenberg-Richter?
+[RESPUESTA] Es una formula empirica que relaciona la frecuencia de los sismos con su magnitud. Establece que por cada incremento en un grado de magnitud, el numero de sismos disminuye de forma exponencial según la pendiente b.
+
+[INSTRUCCION] ¿Que es un rockburst o estallido de roca en mineria?
+[RESPUESTA] Un rockburst es una falla frágil y violenta de las paredes de una mina subterránea. Ocurre cuando la excavacion redistribuye los esfuerzos tectónicos y libera repentinamente la energia elástica acumulada en la roca dura.
+
+[INSTRUCCION] ¿Como influye la geodesia como InSAR o GPS en el monitoreo?
+[RESPUESTA] La geodesia espacial como InSAR y GPS mide las deformaciones y desplazamientos milimetricos de la superficie terrestre en tiempo real, permitiendo detectar abultamientos o hundimientos causados por inyeccion o extraccion de fluidos.
+
+[INSTRUCCION] ¿Que es la ley de Omori?
+[RESPUESTA] La ley de Omori describe como disminuye con el tiempo el numero de replicas o sismos secundarios despues de un evento principal o tras detener una inyeccion de agua.
+
+[INSTRUCCION] ¿Cual es la funcion de la presion de poros en una falla?
+[RESPUESTA] La presion de poros actua como un gato hidraulico dentro de la falla. Al aumentar, empuja las paredes de la falla separandolas, reduciendo la friccion y provocando que la falla se deslice con menor esfuerzo.

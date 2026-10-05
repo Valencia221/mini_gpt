@@ -1,0 +1,302 @@
+[INSTRUCCION] ¿Qué es un sismo o terremoto?
+[RESPUESTA] Un sismo o terremoto es una sacudida brusca y pasajera de la corteza terrestre producida por la liberación repentina de energía acumulada en el interior de la Tierra.
+
+[INSTRUCCION] ¿Cuál es la causa principal de los sismos?
+[RESPUESTA] La causa principal es el movimiento y la interacción de las placas tectónicas, las cuales se desplazan sobre la astenosfera generando fricción y acumulación de tensión en sus bordes.
+
+[INSTRUCCION] ¿Qué es una falla geológica?
+[RESPUESTA] Una falla geológica es una fractura o zona de fracturas en la corteza terrestre a lo largo de la cual ha ocurrido un desplazamiento significativo de los bloques rocosos.
+
+[INSTRUCCION] ¿Qué es el hipocentro o foco sísmico?
+[RESPUESTA] El hipocentro es el punto interno en la corteza terrestre donde se origina la ruptura de las rocas y la liberación inicial de energía sísmica.
+
+[INSTRUCCION] ¿Qué es el epicentro de un sismo?
+[RESPUESTA] El epicentro es el punto en la superficie terrestre situado verticalmente sobre el hipocentro o foco del sismo, donde generalmente la intensidad percibida es máxima.
+
+[INSTRUCCION] ¿Cuál es la diferencia entre magnitud e intensidad sísmica?
+[RESPUESTA] La magnitud mide cuantitativamente la energía liberada en el foco del sismo, mientras que la intensidad evalúa cualitativamente los efectos y daños producidos en la superficie.
+
+[INSTRUCCION] ¿Qué escala mide la magnitud de un sismo?
+[RESPUESTA] Históricamente se usó la Escala de Richter, pero actualmente la comunidad científica utiliza la Escala de Magnitud de Momento (Mw) por su precisión en grandes sismos.
+
+[INSTRUCCION] ¿Qué escala mide la intensidad de un sismo?
+[RESPUESTA] La intensidad se mide mediante la Escala de Mercalli Modificada (MMI), que va desde el grado I (no percibido) hasta el grado XII (destrucción total).
+
+[INSTRUCCION] ¿Qué son las ondas sísmicas P o primarias?
+[RESPUESTA] Las ondas P son ondas de compresión y dilatación longitudinales que viajan más rápido en la roca y son las primeras en registrarse en un sismógrafo.
+
+[INSTRUCCION] ¿Qué son las ondas sísmicas S o secundarias?
+[RESPUESTA] Las ondas S son ondas trasversales o de corte que desplazan el material de forma perpendicular a su dirección de propagación y no pueden viajar a través de líquidos.
+
+[INSTRUCCION] ¿Qué son las ondas superficiales Rayleigh y Love?
+[RESPUESTA] Son ondas que se propagan exclusivamente a lo largo de la superficie terrestre; causan la mayor parte del movimiento destructivo e inclinación durante un sismo.
+
+[INSTRUCCION] ¿Qué es el Cinturón de Fuego del Pacífico?
+[RESPUESTA] Es una zona tectónica con forma de herradura de unos 40,000 km que concentra el 90% de los sismos del planeta y la mayoría de los volcanes activos.
+
+[INSTRUCCION] ¿Qué tipo de límites tectónicos existen?
+[RESPUESTA] Existen tres tipos principales: límites convergentes (subducción o colisión), divergentes (dorsales oceánicas) y transformantes (desplazamiento lateral).
+
+[INSTRUCCION] ¿Qué es el fenómeno de subducción?
+[RESPUESTA] La subducción ocurre cuando una placa tectónica más densa (generalmente oceánica) se hunde por debajo de una placa más ligera (continental u oceánica).
+
+[INSTRUCCION] ¿Qué es una réplica sísmica?
+[RESPUESTA] Una réplica es un sismo de menor magnitud que ocurre en la misma región que un sismo principal como resultado del reajuste de las rocas en la falla.
+
+[INSTRUCCION] ¿Qué es un sismo premonitorio o precursor?
+[RESPUESTA] Es un evento sísmico de menor magnitud que ocurre antes del sismo principal en la misma zona de ruptura.
+
+[INSTRUCCION] ¿Se pueden predecir los terremotos con exactitud?
+[RESPUESTA] No, actualmente no existe método científico capaz de predecir la hora, fecha exacta, magnitud y lugar de un terremoto futuro.
+
+[INSTRUCCION] ¿Qué es la licuefacción del suelo?
+[RESPUESTA] Es un proceso por el cual los suelos saturados de agua pierden su resistencia y se comportan como un líquido debido a la vibración del sismo.
+
+[INSTRUCCION] ¿Cómo se genera un tsunami de origen sísmico?
+[RESPUESTA] Se genera por el desplazamiento vertical del fondo marino durante un sismo de gran magnitud en una zona de subducción, desplazando una enorme masa de agua.
+
+[INSTRUCCION] ¿Qué es la sismicidad inducida?
+[RESPUESTA] Es la actividad sísmica provocada por actividades humanas como el llenado de embalses, la extracción de hidrocarburos, la minería o la inyección profunda de fluidos.
+
+[INSTRUCCION] ¿Qué es un sismómetro o sismógrafo?
+[RESPUESTA] Es un instrumento científico que detecta, mide y registra las ondas sísmicas producidas por los movimientos de la corteza terrestre.
+
+[INSTRUCCION] ¿Qué es un sismograma?
+[RESPUESTA] Es el registro gráfico en función del tiempo de la amplitud y frecuencia de las ondas sísmicas captadas por un sismómetro.
+
+[INSTRUCCION] ¿Qué es la profundidad focal de un sismo?
+[RESPUESTA] Es la distancia vertical desde el epicentro en la superficie hasta el hipocentro en el interior de la Tierra.
+
+[INSTRUCCION] ¿Cómo se clasifican los sismos según su profundidad?
+[RESPUESTA] Se clasifican en superficiales (menos de 70 km), intermedios (entre 70 y 300 km) y profundos (más de 300 km).
+
+[INSTRUCCION] ¿Por qué los sismos superficiales causan más daños?
+[RESPUESTA] Porque la energía de las ondas sísmicas recorre menos distancia hasta llegar a la superficie y sufre menor atenuación.
+
+[INSTRUCCION] ¿Qué es la ingeniería sísmica?
+[RESPUESTA] Es la rama de la ingeniería dedicada a diseñar y construir estructuras capaces de resistir las cargas horizontales y oscilaciones de los terremotos.
+
+[INSTRUCCION] ¿Qué es el aislamiento sísmico en la edificación?
+[RESPUESTA] Es una técnica estructural que desacopla la superestructura de la cimentación mediante aisladores elásticos para reducir la transferencia de vibraciones.
+
+[INSTRUCCION] ¿Qué es un disipador de energía sísmica?
+[RESPUESTA] Es un dispositivo integrado en los edificios que absorbe y disipa parte de la energía del movimiento telúrico reduciendo la deformación del edificio.
+
+[INSTRUCCION] ¿Qué es el fenómeno de resonancia en edificios durante un sismo?
+[RESPUESTA] Ocurre cuando la frecuencia natural de vibración de una estructura coincide con la frecuencia dominante de las ondas sísmicas, amplificando el movimiento.
+
+[INSTRUCCION] ¿Qué países son los más afectados por terremotos en América del Sur?
+[RESPUESTA] Chile, Perú, Ecuador y Colombia debido a la interacción de la placa de Nazca con la placa Sudamericana.
+
+[INSTRUCCION] ¿Por qué Chile registra sismos tan intensos?
+[RESPUESTA] Por estar ubicado directamente sobre la zona de subducción entre la placa de Nazca y la placa Sudamericana, una de las más activas del planeta.
+
+[INSTRUCCION] ¿Qué fue el terremoto de Valdivia de 1960 en Chile?
+[RESPUESTA] Fue el terremoto más potente registrado históricamente con una magnitud de 9.5 Mw, generando tsunamis devastadores en todo el Océano Pacífico.
+
+[INSTRUCCION] ¿Qué causó el terremoto de Turquía y Siria en febrero de 2023?
+[RESPUESTA] La ruptura en la falla de Anatolia Oriental y el complejo movimiento de las placas Anatolia, Arábiga y Africana, alcanzando magnitudes de 7.8 y 7.5 Mw.
+
+[INSTRUCCION] ¿Por qué la región de Anatolia en Turquía es tan vulnerable a los terremotos?
+[RESPUESTA] Porque la placa Arábiga empuja hacia el norte la placa de Anatolia, comprimiéndola lateralmente a lo largo de grandes fallas de rumbo transformante.
+
+[INSTRUCCION] ¿Qué ocurrió en el terremoto de Noto, Japón, en enero de 2024?
+[RESPUESTA] Un terremoto de magnitud 7.5 Mw sacudió la península de Noto causando colapsos de edificios, incendios masivos y levantamiento del terreno de hasta 4 metros.
+
+[INSTRUCCION] ¿Por qué Japón experimenta miles de sismos al año?
+[RESPUESTA] Debido a que su archipiélago se sitúa en la confluencia de cuatro placas tectónicas: la Pacífica, la de Filipinas, la Euroasiática y la de Norteamérica.
+
+[INSTRUCCION] ¿Cuál fue la causa del terremoto en Hualien, Taiwán, en abril de 2024?
+[RESPUESTA] Ocurrió debido a la convergencia entre la placa del Mar de Filipinas y la placa Euroasiática, registrando una magnitud de 7.4 Mw.
+
+[INSTRUCCION] ¿Por qué Taiwán resistió relativamente bien el terremoto de 2024 de magnitud 7.4?
+[RESPUESTA] Gracias a la aplicación de estrictos códigos de construcción sismorresistente, simulacros continuos y un avanzado sistema de alerta temprana.
+
+[INSTRUCCION] ¿Qué provocó el terremoto de Marruecos en septiembre de 2023?
+[RESPUESTA] La compresión tectónica en la cordillera del Alto Atlas debido a la convergencia entre la placa Africana y la Euroasiática, alcanzando magnitud 6.8 Mw.
+
+[INSTRUCCION] ¿Por qué causó tantas víctimas el terremoto de Marruecos de 2023?
+[RESPUESTA] Por la vulnerabilidad de las construcciones de adobe y piedra sin refuerzo sísmico en aldeas de montaña de difícil acceso.
+
+[INSTRUCCION] ¿Qué sismicidad caracteriza a Indonesia?
+[RESPUESTA] Alta sismicidad provocada por la subducción de la placa Indoaustraliana por debajo de la placa de la Sonda en la fosa de Java y Sumatra.
+
+[INSTRUCCION] ¿Qué ocurrió en el terremoto de Sumatra de 2004?
+[RESPUESTA] Un sismo megalímite de 9.1 Mw generó un devastador tsunami en el Océano Índico que mató a más de 220,000 personas en varios países.
+
+[INSTRUCCION] ¿Qué caracteriza a la Falla de San Andrés en California?
+[RESPUESTA] Es una gran falla de rumbo transformante donde la placa del Pacífico se desplaza horizontalmente hacia el noroeste en relación con la placa Norteamericana.
+
+[INSTRUCCION] ¿Qué es el "Big One" en la jerga sismológica norteamericana?
+[RESPUESTA] Es el término hipotético para referirse a un futuro terremoto devastador de magnitud superior a 7.8 en el segmento sur de la Falla de San Andrés.
+
+[INSTRUCCION] ¿Por qué ocurren sismos en la Ciudad de México aunque el epicentro sea lejano?
+[RESPUESTA] Porque la ciudad está construida sobre los antiguos depósitos arcillosos del lago de Texcoco, los cuales amplifican las ondas sísmicas procedentes de la costa del Pacífico.
+
+[INSTRUCCION] ¿Qué causó el terremoto de Michoacán en México en 1985?
+[RESPUESTA] La subducción de la placa de Cocos bajo la placa Norteamericana, registrando una magnitud de 8.0 Mw que provocó graves colapsos en la capital.
+
+[INSTRUCCION] ¿Cuál fue el impacto del sismo de Puebla en México en septiembre de 2017?
+[RESPUESTA] Fue un sismo intraplaca de 7.1 Mw a 57 km de profundidad que causó colapsos severos en Puebla, Morelos y la Ciudad de México.
+
+[INSTRUCCION] ¿Qué tipo de sismicidad presenta Italia?
+[RESPUESTA] Sismicidad de moderada a alta en la cadena de los Apeninos debido a la colisión tectónica entre la microplaca Adriática y la placa Euroasiática.
+
+[INSTRUCCION] ¿Qué provocó el terremoto de L’Aquila en Italia en 2009?
+[RESPUESTA] La extensión de la corteza en la cadena apennínica sobre una falla normal, dejando una magnitud de 6.3 Mw y graves daños urbanos.
+
+[INSTRUCCION] ¿Por qué Haití es altamente vulnerable a los terremotos?
+[RESPUESTA] Por la falla Enriquillo-Plantain Garden combinada con la debilidad de sus infraestructuras, pobreza extrema e inexistencia de códigos de edificación.
+
+[INSTRUCCION] ¿Qué magnitud tuvo el destructivo terremoto de Haití en 2010?
+[RESPUESTA] Tuvo una magnitud de 7.0 Mw con un hipocentro superficial de solo 13 km, devastando la capital Puerto Príncipe.
+
+[INSTRUCCION] ¿Qué son los sismos intraplaca?
+[RESPUESTA] Son sismos que ocurren en el interior de una placa tectónica, lejos de los bordes o límites activos, causados por la liberación de tensiones acumuladas.
+
+[INSTRUCCION] ¿Qué es el fenómeno de enjambre sísmico?
+[RESPUESTA] Es una secuencia de múltiples sismos de magnitudes similares que ocurren en un espacio y tiempo determinados sin un evento principal claramente identificable.
+
+[INSTRUCCION] ¿Qué diferencia un enjambre sísmico volcánico de uno tectónico?
+[RESPUESTA] El enjambre volcánico está vinculado al ascenso de magma y gases dentro del edificio volcánico, mientras que el tectónico responde al desgarro de fallas.
+
+[INSTRUCCION] ¿Cómo contribuye el satélite radar (InSAR) al estudio sísmico?
+[RESPUESTA] Permite medir con precisión milimétrica la deformación del terreno antes, durante y después de un terremoto mediante interferometría de imágenes radar.
+
+[INSTRUCCION] ¿Qué es el tiempo de llegada de una onda sísmica?
+[RESPUESTA] Es la hora exacta en la que la primera perturbación de la onda P o S alcanza una estación sísmica de monitoreo.
+
+[INSTRUCCION] ¿Cómo se determina el epicentro mediante la regla del desfase P-S?
+[RESPUESTA] Calculando la diferencia de tiempo de llegada entre las ondas P y S en tres o más estaciones para triangular la distancia al foco.
+
+[INSTRUCCION] ¿Qué es un acelerógrafo?
+[RESPUESTA] Es un instrumento especializado en registrar la aceleración del suelo durante sismos intensos, fundamental para el diseño estructural.
+
+[INSTRUCCION] ¿Qué es el PGA en la ingeniería sísmica?
+[RESPUESTA] Significa Peak Ground Acceleration (Pico de Aceleración del Suelo) y mide la máxima aceleración que experimenta el terreno durante el movimiento telúrico.
+
+[INSTRUCCION] ¿Por qué Afganistán sufre recurrentes sismos destructivos?
+[RESPUESTA] Por la colisión continua de la placa Indostánica contra la placa Euroasiática que eleva las cordilleras del Hindú Kush.
+
+[INSTRUCCION] ¿Qué impacto tuvo el terremoto de Herat en Afganistán en octubre de 2023?
+[RESPUESTA] Múltiples sismos de magnitud 6.3 Mw destruyeron cientos de viviendas de adobe en comunidades rurales vulnerables.
+
+[INSTRUCCION] ¿Qué es la brecha sísmica o "seismic gap"?
+[RESPUESTA] Es un segmento de una falla tectónica activa que no ha registrado un terremoto significativo en mucho tiempo, acumulando gran potencial de ruptura.
+
+[INSTRUCCION] ¿Qué es el ciclo sísmico?
+[RESPUESTA] Es el periodo cíclico compuesto por la lenta acumulación de deformación elástica en una falla, su ruptura repentina (sismo) y el subsecuente reajuste.
+
+[INSTRUCCION] ¿Qué es el atlas de peligrosidad sísmica de un país?
+[RESPUESTA] Es la cartografía oficial que zonifica el territorio según la probabilidad e intensidad esperada de movimientos telúricos en un periodo dado.
+
+[INSTRUCCION] ¿Cómo funciona un sistema de alerta temprana sísmica (SASMEX, J-Alert)?
+[RESPUESTA] Detecta la llegada inicial de las ondas compresionales P cerca del epicentro y envía una señal electrónica que viaja más rápido que las destructivas ondas S.
+
+[INSTRUCCION] ¿Cuántos segundos de ventaja puede ofrecer una alerta temprana sísmica?
+[RESPUESTA] Entre 10 y 90 segundos dependiendo de la distancia entre la zona epicentral y la ciudad receptora de la señal.
+
+[INSTRUCCION] ¿Por qué Nueva Zelanda presenta sismicidad elevada?
+[RESPUESTA] Se ubica sobre el borde entre la placa Australiana y la placa del Pacífico, atravesada por la activa Falla Alpina.
+
+[INSTRUCCION] ¿Qué ocurrió en el terremoto de Christchurch de 2011 en Nueva Zelanda?
+[RESPUESTA] Un sismo de 6.2 Mw extremadamente superficial produjo aceleraciones de terreno superiores a 2g y provocó licuefacción masiva.
+
+[INSTRUCCION] ¿Qué son los microsismos?
+[RESPUESTA] Son pequeñas vibraciones continuas del suelo no percibidas por el ser humano, generadas por olas oceánicas, viento o actividad industrial.
+
+[INSTRUCCION] ¿Qué es la atenuación de las ondas sísmicas?
+[RESPUESTA] La disminución paulatina de la amplitud y energía de la onda sísmica conforme viaja alejándose de la fuente del terremoto.
+
+[INSTRUCCION] ¿Qué papel juega el agua subterránea en las fallas tectónicas?
+[RESPUESTA] La presión de poros del fluido lubrica las superficies de contacto de la falla, facilitando su deslizamiento o desencadenando sismos.
+
+[INSTRUCCION] ¿Qué es el mecanismo focal de un terremoto?
+[RESPUESTA] Es la representación geométrica de la orientación del plano de falla y la dirección del desplazamiento del bloque durante el sismo ("pelota de playa").
+
+[INSTRUCCION] ¿Qué es un sismo de foco profundo o plutónico?
+[RESPUESTA] Es un terremoto que ocurre a más de 300 km de profundidad, típico del interior de placas oceánicas subducidas en el manto.
+
+[INSTRUCCION] ¿Pueden los terremotos modificar el eje o la rotación de la Tierra?
+[RESPUESTA] Sí, terremotos gigantescos de magnitud superior a 8.8 Mw redistribuyen la masa del planeta alterando levemente la duración del día en microsegundos.
+
+[INSTRUCCION] ¿Qué es la escala de intensidad sísmica de la JMA en Japón?
+[RESPUESTA] Es la escala Shindo, que va del nivel 0 al 7 y mide la intensidad percibida en la superficie de forma automatizada por sensores.
+
+[INSTRUCCION] ¿Qué vulnerabilidad sísmica existe en Grecia y Turquía?
+[RESPUESTA] La alta velocidad de deformación provocada por la extrusión de la placa del Egeo respecto a la placa Africana y Anatolia.
+
+[INSTRUCCION] ¿Por qué el terremoto de Kamchatka en Rusia es de interés sismológico?
+[RESPUESTA] Porque la península alberga una de las zonas de subducción más activas del planeta capaz de generar megaterremotos e tsunamis en el Pacífico Norte.
+
+[INSTRUCCION] ¿Qué relación hay entre vulcanismo y actividad sísmica?
+[RESPUESTA] El movimiento de magma y la fracturación del cono volcánico provocan sismos que sirven como principales indicadores de erupción inminente.
+
+[INSTRUCCION] ¿Qué es un sismo volcánico-tectónico (VT)?
+[RESPUESTA] Es un terremoto provocado por la rotura de la roca debido al esfuerzo y presión ejercidos por la intrusión magmática.
+
+[INSTRUCCION] ¿Qué es un tremor volcánico?
+[RESPUESTA] Es una señal sísmica continua y armónica provocada por la circulación sostenida de fluidos y gases dentro de los conductos del volcán.
+
+[INSTRUCCION] ¿Por qué la construcción en mampostería no reforzada es peligrosa ante sismos?
+[RESPUESTA] Carece de resistencia a la tracción y ductilidad ante empujes horizontales, haciendo que los muros se desmoronen rápidamente.
+
+[INSTRUCCION] ¿Qué son los pernos de anclaje y cadenas de amarre sísmico?
+[RESPUESTA] Elementos estructurales de acero que fijan muros, cubiertas y cimientos para que la edificación actúe como un monolito continuo.
+
+[INSTRUCCION] ¿Qué recomendaciones básicas deben seguirse durante un terremoto?
+[RESPUESTA] Mantener la calma, agacharse, cubrirse debajo de una mesa resistente y sujetarse firmemente hasta que cese el movimiento.
+
+[INSTRUCCION] ¿Qué es una mochila de emergencia o kit sísmico?
+[RESPUESTA] Un bolso equipado con agua, alimentos no perecederos, linterna, radio a pilas, botiquín de primeros auxilios y documentos clave para afrontar 72 horas.
+
+[INSTRUCCION] ¿Por qué no se debe usar ascensor durante o tras un terremoto?
+[RESPUESTA] Por el riesgo de cortes repentinos de energía eléctrica, deformación de los rieles del hueco o atrapamiento del elevador.
+
+[INSTRUCCION] ¿Qué es el suelo blando en estudios de microzonificación sísmica?
+[RESPUESTA] Terrenos arcillosos o no consolidados que reducen la velocidad de la onda sísmica y amplifican drásticamente su amplitud y duración.
+
+[INSTRUCCION] ¿Qué es el suelo firme o roca madre en sismología?
+[RESPUESTA] Formaciones rocosas consolidadas que transmiten las ondas sísmicas sin sufrir fenómenos de amplificación apreciable.
+
+[INSTRUCCION] ¿Qué es el efecto de sitio?
+[RESPUESTA] Las modificaciones en amplitud, frecuencia y duración que sufren las ondas sísmicas debido a las condiciones topográficas y geológicas locales del suelo.
+
+[INSTRUCCION] ¿Qué relación hay entre el cambio climático y la sismicidad?
+[RESPUESTA] La fusión rápida de glaciares reduce el peso sobre la corteza (isostasia), lo que puede desencadenar la reactivación de fallas tectónicas preexistentes.
+
+[INSTRUCCION] ¿Qué es el rebote elástico en la teoría de Harry Fielding Reid?
+[RESPUESTA] La teoría de que las rocas acumulan energía elástica al deformarse hasta romper el límite de resistencia, liberándola bruscamente en forma de sismo.
+
+[INSTRUCCION] ¿Qué es una zona de cizalla?
+[RESPUESTA] Una franja de la corteza o manto sometida a deformación dúctil o frágil por esfuerzos cortantes de gran magnitud.
+
+[INSTRUCCION] ¿Qué red monitorea los terremotos a nivel global?
+[RESPUESTA] La Red Sísmica Global (GSN) operada por instituciones como el USGS eIRIS, integrando miles de estaciones de banda ancha.
+
+[INSTRUCCION] ¿Qué es el periodo fundamental de vibración de una estructura?
+[RESPUESTA] El tiempo en segundos que tarda un edificio en completar un ciclo entero de oscilación libre de un lado a otro.
+
+[INSTRUCCION] ¿Por qué los edificios altos sufren más con sismos lejanos de gran magnitud?
+[RESPUESTA] Porque los sismos lejanos filtran las frecuencias altas y transmiten ondas de periodo largo que entran en resonancia con estructuras de gran altura.
+
+[INSTRUCCION] ¿Por qué los edificios bajos sufren más con sismos cercanos y superficiales?
+[RESPUESTA] Porque reciben ondas sísmicas de alta frecuencia que coinciden con su corto periodo de vibración natural.
+
+[INSTRUCCION] ¿Qué es el triángulo de la vida durante un sismo?
+[RESPUESTA] Una teoría controvertida que propone ubicarse junto a objetos pesados y resistentes; sin embargo, los expertos priorizan la maniobra de agacharse, cubrirse y sujetarse.
+
+[INSTRUCCION] ¿Qué función cumple la norma sísmica de un país?
+[RESPUESTA] Establecer exigencias mínimas de diseño y construcción obligatorias para garantizar la estabilidad de edificios y salvar vidas ante terremotos.
+
+[INSTRUCCION] ¿Qué es la rigidez lateral de un edificio?
+[RESPUESTA] La capacidad del sistema estructural para resistir las deformaciones horizontales causadas por el viento o el movimiento sísmico.
+
+[INSTRUCCION] ¿Qué es una falla de rumbo o de desplazamiento de desgarre?
+[RESPUESTA] Una falla donde los bloques rocosos se deslizan horizontalmente uno respecto al otro de forma paralela a la dirección de la falla.
+
+[INSTRUCCION] ¿Qué es una falla normal y en qué régimen ocurre?
+[RESPUESTA] Una falla provocada por fuerzas de extensión en la corteza donde el bloque superior se desplaza hacia abajo respecto al bloque inferior.
+
+[INSTRUCCION] ¿Por qué es fundamental la educación y los simulacros sísmicos en la sociedad?
+[RESPUESTA] Porque preparan a la población para reaccionar de forma automática y ordenada, reduciendo considerablemente el pánico y la pérdida de vidas humanas.

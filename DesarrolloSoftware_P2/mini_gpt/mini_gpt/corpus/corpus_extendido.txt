@@ -1,0 +1,59 @@
+[INSTRUCCION] ¿Cual es la diferencia entre sismo, temblor y terremoto?
+[RESPUESTA] Los tres terminos se refieren al mismo fenomeno fisico de sacudida del terreno por liberacion de energia elastica. Tecnicamente no hay diferencia, aunque coloquialmente se usa terremoto para eventos destructivos y temblor o sismo para eventos leves.
+
+[INSTRUCCION] ¿Que es la sismicidad inducida por embalses o represas?
+[RESPUESTA] Es la actividad sismica desencadenada por el llenado de grandes embalses. Ocurre por el peso de la masa de agua sobre la corteza y por la lenta percolacion del agua que incrementa la presion de poros en fallas subyacentes.
+
+[INSTRUCCION] ¿Que es la sismicidad inducida por tronaduras o voladuras en mineria?
+[RESPUESTA] Es la vibracion y ruptura localizada producida por el uso de explosivos en actividades mineras o de obra civil. Produce ondas de alta frecuencia y baja magnitud limitadas a la zona cercana de la detonacion.
+
+[INSTRUCCION] ¿Cual es la relacion entre el fracking y los sismos en Vaca Muerta Neuquen?
+[RESPUESTA] En la formacion Vaca Muerta, la inyeccion de fluidos a alta presion durante el fracturamiento hidraulico ha reactivado fallas geologicas locales, generando sismos sentidos por las comunidades cercanas como en Sauzal Bonito.
+
+[INSTRUCCION] ¿Que paso en el proyecto Castor de almacenamiento de gas en Espana?
+[RESPUESTA] El proyecto Castor inyecto gas natural en un antiguo yacimiento petrolifero marino. La inyeccion desencadeno cientos de sismos por aumento de presion de poros en la falla de Amposta, obligando a suspender definitivamente el proyecto.
+
+[INSTRUCCION] ¿Cual es el rol del Servicio Geofisico Colombiano SGC en sismicidad inducida?
+[RESPUESTA] El Servicio Geologico Colombiano se encarga del monitoreo sismico nacional, la operacion de redes de estaciones y el analisis tecnico para diferenciar eventos tectonicos naturales de sismos relacionados con actividades industriales.
+
+[INSTRUCCION] ¿Cual es la funcion de la ANLA en la evaluacion de sismicidad inducida?
+[RESPUESTA] La Autoridad Nacional de Licencias Ambientales ANLA evalua los impactos ambientales, exige planes de gestion de riesgo y reglamenta sistemas de semaforo sismico para proyectos hidrocarburiferos y mineros.
+
+[INSTRUCCION] ¿Cuales son las principales actividades humanas que hacen temblar la Tierra?
+[RESPUESTA] Las seis actividades principales son: inyeccion de agua residual, fracturamiento hidraulico, extraccion de hidrocarburos, mineria subterránea, llenado de represas y almacenamiento geologico de gas o CO2.
+
+[INSTRUCCION] ¿Como garantiza la integridad de la formacion durante la inyeccion de agua?
+[RESPUESTA] Manteniendo la presion de inyeccion por debajo de la presion de fractura de la roca sello y monitoreando continuamente la tasa de flujo para evitar sobrepresiones que reactiven fallas profundas.
+
+[INSTRUCCION] ¿Que es la falla por corte en sismologia para ingenieros?
+[RESPUESTA] Es la ruptura o deslizamiento relativo entre dos bloques de roca a lo largo de un plano de falla cuando los esfuerzos cortantes superan la resistencia friccional de la roca.
+
+[INSTRUCCION] ¿Que es un sismo sentido por la poblacion?
+[RESPUESTA] Es un evento sismico que genera la suficiente aceleracion del suelo como para ser percibido por los seres humanos en superficie, generalmente con magnitudes mayores a 2.5 o 3.0 dependiendo de la profundidad.
+
+[INSTRUCCION] ¿Que es la aceleracion maxima del suelo o PGA?
+[RESPUESTA] El PGA es la medida del movimiento de sacudida mas violento registrado por un acelerografo durante un sismo en un lugar especifico. Es un parámetro clave en la ingenieria sismorresistente.
+
+[INSTRUCCION] ¿Como se monitorea la sismicidad inducida en un proyecto industrial?
+[RESPUESTA] Se instala una red de sismometros de superficie y geofonos de pozo alrededor del proyecto para detectar microsismos, relocalizar epicentros en tiempo real y operar un sistema de semaforo sismico.
+
+[INSTRUCCION] ¿Que es la microseismicidad?
+[RESPUESTA] Son sismos de muy baja magnitud, generalmente con magnitud momento menor a 2.0, no perceptibles por las personas y detectables unicamente mediante instrumental geofisico sensible.
+
+[INSTRUCCION] ¿Por que la extraccion de gas o agua causa sismos por compactacion?
+[RESPUESTA] Al extraer fluidos disminuye la presion de poros y la roca se compacta bajo el peso de las capas superiores. Esta deformacion altera los esfuerzos cortantes en las fallas bordantes del yacimiento provocando sismos.
+
+[INSTRUCCION] ¿Que es la porosidad de una roca reservorio?
+[RESPUESTA] La porosidad es el porcentaje de espacio vacio en una roca respecto a su volumen total, el cual permite almacenar agua, petroleo o gas en el subsuelo.
+
+[INSTRUCCION] ¿Que es la permeabilidad en hidrogeologia?
+[RESPUESTA] La permeabilidad es la capacidad de una roca o sedimento para permitir el paso de fluidos a traves de sus poros e interconexiones de fracturas.
+
+[INSTRUCCION] ¿Que indica el valor b en la ley de Gutenberg-Richter para sismicidad inducida?
+[RESPUESTA] Un valor b mas alto de lo normal indica un predominio de sismos pequenos o microsismos sobre sismos grandes, lo cual es muy frecuente en secuencias de sismicidad inducida por fluidos.
+
+[INSTRUCCION] ¿Que es el efecto de carga elastica en un embalse?
+[RESPUESTA] Es el cambio instantáneo en el estado de esfuerzos de la corteza debido al peso fisico que ejerce la columna de agua acumulada sobre el terreno.
+
+[INSTRUCCION] ¿Como funciona el nivel amarillo en un semaforo sismico?
+[RESPUESTA] En nivel amarillo la sismicidad alcanza un umbral preventivo. El operador esta obligado a reducir el caudal de inyeccion, bajar la presion y aumentar el monitoreo sin detener completamente la operacion.
